@@ -4,7 +4,7 @@
 This Plugin was made by ifvictr and Fixed by me!
 Hackers can't cripple your server anymore!
 
-###Commands:
+### Commands:
 Main command: **planb**, **pb**
 
 |Sub-command|Description|
