@@ -28,4 +28,4 @@ Main command: **planb**, **pb**
 |1.2.0|September 17, 2015|[available](http://forums.pocketmine.net/plugins/planb.1128/download?version=2769)|
 |1.3.0|December 25, 2015|[available](http://forums.pocketmine.net/plugins/planb.1128/download?version=2988)|
 |1.4.0|?|unavailable|
-|1.5.0|July 27, 2021|[available](http://forums.pocketmine.net/plugins/planb.1128/download?version=2988)|
+|1.5.0|July 27, 2021|[Poggit Dev](https://poggit.pmmp.io/ci/TheBalkanDev/PlanB-Fixed/PlanB-Fixed)|
