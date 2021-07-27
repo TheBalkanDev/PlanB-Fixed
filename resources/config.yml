@@ -1,4 +1,4 @@
-#Configuration file for PlanB v1.4.0
+#Configuration file for PlanB v1.5.0
 kickReason: "§cAre you a hacker?"
 #Sets the kick reason when a potential hacker is detected, refer to values.txt for entire list of usable values
 noPermissionMessage: "§cYou do not not have permissions to restore OPs."
