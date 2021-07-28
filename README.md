@@ -1,5 +1,6 @@
 ![PlanB](images/icon.png)
-#PlanB
+
+# PlanB
 
 This Plugin was made by ifvictr and Fixed by me!
 Hackers can't cripple your server anymore!
