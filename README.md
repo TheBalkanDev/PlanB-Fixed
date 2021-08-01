@@ -4,10 +4,12 @@
 
 This Plugin was made by ifvictr and Fixed by me!
 
-Hackers can't cripple your server anymore!
-
 If you have Ideas let me know it!
-Simply open an Issue and tell me your Idea!
+Simply open an Issue and tell me your Idea.
+
+### About
+PlanB allows OPs who have been deopped by hackers to regain their OP status, especially for those OPs who do not have access to the console. This also automatically kicks every single OP in the server that is not in backups.txt when /planb restore is run.
+Enjoy it!
 
 ### Commands:
 Main command: **planb**, **pb**
