@@ -3,11 +3,11 @@
 namespace planb;
 
 use planb\command\PlanBCommand;
+use pocketmine\Player;
 use pocketmine\command\CommandSender;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
 use pocketmine\utils\TextFormat;
-use pocketmine\Player;
 
 class PlanB extends PluginBase{
     /** @var Config */
