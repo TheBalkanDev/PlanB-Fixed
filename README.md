@@ -22,12 +22,12 @@ Main command: **planb**, **pb**
 |**list**, **l**|Lists all backup players|
 |**restore**, **r**|Restores OP status of all online players listed in backups.txt|
 
-###Permissions:
+### Permissions:
 |Node|Default|
 |----|:-------:|
 |planb.command.planb|true|
 
-###Releases:
+### Releases:
 |Version|Release Date|Download|
 |:-------:|------------|:--------:|
 |1.0.0|April 29, 2015|[available](http://forums.pocketmine.net/plugins/planb.1128/download?version=2129)|
