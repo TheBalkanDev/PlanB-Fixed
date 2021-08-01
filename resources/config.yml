@@ -3,7 +3,7 @@ kickReason: "§cAre you a hacker?"
 #Sets the kick reason when a potential hacker is detected, refer to values.txt for entire list of usable values
 noPermissionMessage: "§cYou do not not have permissions to restore OPs."
 #Message sent to command runner, if they don't have permissions to restore OPs
-notifyAll: true
+notifyAll: false
 #Set to true to announce when a potential hacker is detected and kicked
 notifyMessage: "§eDeopped and kicked potential hacker: {PLAYER_NAME}"
 #Message that is broadcasted when a potential hacker is detected and kicked, refer to values.txt for entire list of usable values
