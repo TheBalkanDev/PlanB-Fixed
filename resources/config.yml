@@ -1,11 +1,16 @@
-#Configuration file for PlanB v1.5.0
+# Configuration file for PlanB v1.5.0
+
 kickReason: "§cAre you a hacker?"
-#Sets the kick reason when a potential hacker is detected, refer to values.txt for entire list of usable values
+# Sets the kick reason when a potential hacker is detected
+
 noPermissionMessage: "§cYou do not not have permissions to restore OPs."
-#Message sent to command runner, if they don't have permissions to restore OPs
+# Message sent to command runner, if they don't have permissions to restore OPs
+
 notifyAll: false
-#Set to true to announce when a potential hacker is detected and kicked
+# Set to true to announce when a potential hacker is detected and kicked
+
 notifyMessage: "§eDeopped and kicked potential hacker: {PLAYER_NAME}"
-#Message that is broadcasted when a potential hacker is detected and kicked, refer to values.txt for entire list of usable values
+# Message that is broadcasted when a potential hacker is detected and kicked, refer to values.txt for entire list of usable value
+
 restoreMessage: "§eYour op status is being restored..."
-#Message sent to OPs whose OP status is being restored, refer to values.txt for entire list of usable values
+# Message sent to OPs whose OP status is being restored, refer to values.txt for entire list of usable values
