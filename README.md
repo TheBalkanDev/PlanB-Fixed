@@ -1,4 +1,3 @@
-![PlanB](images/icon.png)
 
 # PlanB
 
